@@ -1,0 +1,13 @@
+{
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+
+    // Сохраняет файл при смене окна
+    "files.autoSave": "onFocusChange",
+
+    // Показывает точки вместо пробелов
+    "editor.renderWhitespace": "all",
+
+    // Меняет тему
+    "workbench.colorTheme": "Solarized Dark"
+}
