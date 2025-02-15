@@ -2,6 +2,9 @@
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
 
+    // Убирает миникарту
+    "editor.minimap.enabled": false,
+
     // Сохраняет файл при смене окна
     "files.autoSave": "onFocusChange",
 
@@ -9,5 +12,9 @@
     "editor.renderWhitespace": "all",
 
     // Меняет тему
-    "workbench.colorTheme": "Solarized Dark"
+    "workbench.colorTheme": "Solarized Dark",
+
+    // Добавляет стили для папок и файлов
+    "workbench.iconTheme": "vscode-icons"
+
 }
